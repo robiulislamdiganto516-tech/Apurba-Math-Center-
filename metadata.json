@@ -1,0 +1,8 @@
+{
+  "name": "Apurba Math Center",
+  "description": "An ultra-modern SSC Class 10 General Math educational platform featuring interactive lessons, formula banks, quizzes, progress tracking, and an advanced AI math solver.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
